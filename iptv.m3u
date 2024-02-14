@@ -11,6 +11,14 @@ https://muzkurd.com/sterktv/sterk/playlist.m3u8
 https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8
 #EXTINF:0,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:0,MBC
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0,MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:0,Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0,MTV
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:0,Sama TV
 https://app.sama-tv.net/hls/samatv_higher/index.m3u8
 #EXTINF:0,Al Jazzera
@@ -31,10 +39,12 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0,Tagesschau
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
-#EXTINF:0,NTV
-https://pntvlive-a.akamaized.net/live/ntvhome/hls/ntvhome.m3u8
+##EXTINF:0,ZDF info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:0,ZDF Neo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:0,SWR RP
-https://mcdn.swr.de/swr/swrrpd/master-subs.m3u8
+https://mcdn.swr.de/swr/swrrpd/master.m3u8
 #EXTINF:0,WDR
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:0,ARTE
