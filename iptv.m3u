@@ -20,7 +20,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0,Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0,Sky News Arabic
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707946845/ei/_d7MZYLaMsiP_9EP4fq0mAI/ip/172.70.42.71/id/me1fBxx9wJY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f08DYrJf46uDLOssf3uu7oiTtm9ANytKYrHTmctB7r4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAImgE00lEWAHHUtV0m5fsM4zw2k0UkUy7O8y-53tU69lAiBImURMFANsfXufSCHbily0N-KHy0mkdiIm0vH1_jHTeQ%3D%3D/file/index.m3u8
 #EXTINF:0,Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:0,DW Arabic 
