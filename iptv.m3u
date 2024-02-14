@@ -1,43 +1,97 @@
 #EXTM3U
 #EXTINF:0,Rudaw
-https://svs.itworkscdn.net:443/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:0,Kurdistan24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:0,Ronahi
-http://51.89.6.117/LiveApp/streams/912546730243290230820991.m3u8
-#EXTINF:0,Sterk 
+https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
+#EXTINF:0,Sterk
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
-#EXTINF:0,Waar
+#EXTINF:0,WAAR
 https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8
-#EXTINF:0,Med Muzik 
-http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 #EXTINF:0,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:0,NRT
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:0,Gali Kurdistan
-https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
-#EXTINF:0,Kurditsan 
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:0,NAT Geo
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,Sama
-https://stream.sama-tv.net/hls/samatv.m3u8
-#EXTINF:0,MTV
-https://1333578254.rsc.cdn77.org:443/1537084837/tracks-v1a1/mono.m3u8
-#EXTINF:0,Al Jazeera
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:0,Al Arabiya 
+#EXTINF:0,Sama TV
+https://app.sama-tv.net/hls/samatv_higher/index.m3u8
+#EXTINF:0,Al Jazzera
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:0,Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:0,Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0,Sky News Arabic
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:0,Al Yaum
-https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
-#EXTINF:0,Alaraby 
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:0,Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:0,DW Arabic
-https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/streamPlaylist.m3u8
+#EXTINF:0,DW Arabic 
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:0,ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:0,DAS ERSTE
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0,Tagesschau
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
+#EXTINF:0,NTV
+https://pntvlive-a.akamaized.net/live/ntvhome/hls/ntvhome.m3u8
+#EXTINF:0,SWR RP
+https://mcdn.swr.de/swr/swrrpd/master-subs.m3u8
+#EXTINF:0,WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:0,ARTE
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:0,ONE
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:0,DW Deutsch
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:0,WELT
+https://broadcast.welt.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/welttv-prod/a288c944-224f-4bb7-b64a-c00ca19a3ec6/6.m3u8
+#EXTINF:0,BILD
+https://stream.best-of-bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/best-of-bild-prod/df18a8b7-c326-430a-9828-32a699c7efc9/3.m3u8
+#EXTINF:0,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0,Al Jazzera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:0,CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,FOX NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0,America's Voice
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:0,NBC NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:0,Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,CBS News
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:0,CBC New York 
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:0,CBC Los Angeles 
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:0,CBC Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:0,CBC Detroit 
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:0,ABC Los Angeles
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:0,ABC New York
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:0,ABC San Francisco Bay Area
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+#EXTINF:0,ABC Las Vegas
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:0,ABC 13
+https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+#EXTINF:0,ABC 11
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
+#EXTINF:0,CBS Washington
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+#EXTINF:0,FOX 54
+https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
+#EXTINF:0,FOX 15
+https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
+#EXTINF:0,FOX 61
+https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
