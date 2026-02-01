@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u
 
 #EXTINF:-1,Tagesschau
 https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
@@ -14,6 +14,9 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
 #EXTINF:-1,ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
+#EXTINF:-1, Phoenix 
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
 #EXTINF:-1,ARTE
 https://artelivezdf.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
@@ -74,6 +77,3 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
 #EXTINF:-1,Al Araby
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-
-#EXTINF:-1,Sky News Arabic
-https://media.skynewsarabia.com/vod/smil:1849628.smil/1849628.m3u8
