@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1,Tagesschau
 https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
@@ -52,7 +52,7 @@ https://zindi.sterk.tv/live/sterk.m3u8
 https://clvod.itworkscdn.net/waarmediavod/smil:itwfcdn/waarmedia/2418911-1L7i6P12I86VW3S.smil/playlist.m3u8
 
 #EXTINF:-1,AVA TV
-https://ava1.store/upload/ava.m3u8
+https://ava2.store/upload/ava.m3u8
 
 #EXTINF:-1,Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
